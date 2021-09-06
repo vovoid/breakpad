@@ -32,7 +32,7 @@
 
 #include <stdio.h>
 #include <wchar.h>
-
+#include <memory>
 #include <string>
 
 #include "common/windows/pdb_source_line_writer.h"
